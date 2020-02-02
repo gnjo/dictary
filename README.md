@@ -14,6 +14,10 @@ $xxxx
 sword,300,this is sword. //$xxxx[0]=['sword',300,'this is sword'] //number is num
 shild,130,this is shild. //$xxxx[1]=['shild',130,'this is shild']
 
+$zzzz={name,price,about}
+sword,300,this is sword. //$xxxx[0]={name:'sword',price:300,about:'this is sword'} //number is num
+shild,130,this is shild. //$xxxx[1]={name:'shild',price:130,about:'this is shild'}
+
 $aaaa=xyz //$aaaa='xyz'
 $singleary=0,1,2,3,4 //$singleary=[0,1,2,3,4]
 

@@ -1,4 +1,9 @@
-# dictary
+# variable
+```
+//usage
+variable(text,this)  //target the this[...]
+```
+
 $value\n a,b,c,d,
 ```
 //comment $ head is mark and ${}={} 

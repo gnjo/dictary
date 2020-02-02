@@ -10,6 +10,7 @@ sword,300,this is sword. //$xxxx[0]=['sword',300,'this is sword'] //number is nu
 shild,130,this is shild. //$xxxx[1]=['shild',130,'this is shild']
 
 $aaaa=xyz //$aaaa='xyz'
+$singleary=0,1,2,3,4 //$singleary=[0,1,2,3,4]
 
 $bbbb=  //$bbbb='aaa\nbbb...' multi string
 aaa
